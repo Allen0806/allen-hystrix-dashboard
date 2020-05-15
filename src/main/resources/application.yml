@@ -1,0 +1,16 @@
+# 服务器端口号
+server:
+  port: 8704
+
+spring:
+  application:
+    name: allen-hystrix-dashboard
+  http:
+    encoding:
+      charset: UTF-8
+  main:
+    banner-mode: "off"
+
+# 请求地址：http://localhost:8704/hystrix
+        
+      
