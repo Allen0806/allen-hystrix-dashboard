@@ -1,13 +1,10 @@
 # 服务器端口号
 server:
-  port: 8704
+  port: 8704  servlet:    encoding:      charset: UTF-8
 
 spring:
   application:
     name: allen-hystrix-dashboard
-  http:
-    encoding:
-      charset: UTF-8
   main:
     banner-mode: "off"
 
